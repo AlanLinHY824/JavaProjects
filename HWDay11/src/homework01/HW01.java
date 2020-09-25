@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *1.输入某个学生的信息(姓名、年龄、性别、住址、身高、体重),并输出所有信息
- * @AlanLin 2020/6/12
+ * @author Alan Lin
  */
 public class HW01 {
     public static void main(String[] args) {
